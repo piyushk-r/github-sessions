@@ -1,0 +1,19 @@
+workingdirectory---stagingarea---repository
+ls = List all the folders in blue and files in white
+cd = change directory
+cd .. = back
+for open folder which have space put \ btw them
+clear = clear all
+mkdir fol1 fol2.. = make directory
+rmdir fol1 fol2... = remove directory
+touch abc.py/.html.... = create file
+code abc.py = start coding to open vs code
+nano abc.py = open inbuild code 
+help = manual help
+git config --global user.name "Your Name"
+git config --global user.email  emailid@domain.com
+git init
+git status
+
+
+
